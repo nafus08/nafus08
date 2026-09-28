@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muntafid Islam Nafsi — Computer Science Student</title>
+  <desc id="desc">A dark blue technology-inspired banner with abstract lines and glowing nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111d3a"/>
+      <stop offset="1" stop-color="#152b4f"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#52d6ff"/>
+      <stop offset="1" stop-color="#9b8cff"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#52d6ff" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#52d6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <circle cx="1010" cy="115" r="210" fill="url(#halo)"/>
+  <g fill="none" stroke="url(#glow)" stroke-opacity=".32" stroke-width="2">
+    <path d="M720 320 845 220 965 238 1080 122 1200 145"/>
+    <path d="M810 320 915 265 1040 282 1135 210 1200 218"/>
+    <path d="M765 0 850 82 950 66 1030 145 1125 120 1200 175"/>
+    <path d="M920 0 990 55 1080 34 1150 88 1200 70"/>
+    <path d="M0 270 92 202 188 222 264 152"/>
+  </g>
+  <g fill="#111d3a" stroke="#68d9ff" stroke-width="2">
+    <circle cx="845" cy="220" r="5"/><circle cx="965" cy="238" r="5"/>
+    <circle cx="1080" cy="122" r="5"/><circle cx="915" cy="265" r="5"/>
+    <circle cx="1040" cy="282" r="5"/><circle cx="1135" cy="210" r="5"/>
+    <circle cx="850" cy="82" r="5"/><circle cx="1030" cy="145" r="5"/>
+    <circle cx="1125" cy="120" r="5"/>
+  </g>
+  <g fill="#dce9ff" opacity=".8">
+    <circle cx="760" cy="62" r="2"/><circle cx="800" cy="140" r="2"/>
+    <circle cx="940" cy="180" r="2"/><circle cx="1160" cy="270" r="2"/>
+    <circle cx="1080" cy="190" r="2"/><circle cx="880" cy="150" r="2"/>
+    <circle cx="60" cy="72" r="2"/><circle cx="310" cy="258" r="2"/>
+  </g>
+  <text x="82" y="139" fill="#f3f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Muntafid Islam Nafsi</text>
+  <text x="84" y="187" fill="#9fb5d8" font-family="Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="2">COMPUTER SCIENCE STUDENT · BRAC UNIVERSITY</text>
+  <rect x="84" y="216" width="96" height="4" rx="2" fill="url(#glow)"/>
+</svg>
