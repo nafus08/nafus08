@@ -13,7 +13,7 @@
 I'm a Computer Science student at BRAC University interested in building useful software and learning how technology can solve real-world problems. I enjoy working across full-stack web development and machine learning.
 
 - Exploring **Next.js** and modern full-stack web development.
-- Volunteering with the **BRAC University Entrepreneurship Development Forum (BUEDF)** on event outreach and logistics.
+- Building and improving full-stack applications with **TypeScript, Next.js, and database-backed APIs**.
 - Experimenting with **machine learning**, including customer churn prediction and model evaluation.
 
 ## Skills
