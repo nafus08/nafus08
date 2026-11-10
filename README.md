@@ -23,6 +23,7 @@ I'm a Computer Science student at BRAC University who enjoys turning practical p
   <br>
   <strong>Also working with:</strong> LLM API integration, webhooks, Drizzle ORM, and Better Auth
 </div>
+
 ## Connect with me
 
 <div align="center">
@@ -36,8 +37,8 @@ I'm a Computer Science student at BRAC University who enjoys turning practical p
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nafus08&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub contribution stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafus08&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafus08&theme=tokyonight" alt="GitHub statistics">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafus08&theme=tokyonight" alt="Most used programming languages">
   <br>
   <img src="https://streak-stats.demolab.com?user=nafus08&hide_border=true&theme=tokyonight" alt="GitHub contribution streak">
 </div>
