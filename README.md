@@ -14,6 +14,7 @@ I'm a Computer Science student at BRAC University who enjoys turning practical p
 
 - Building full-stack products, from **FitLog**, a workout planner and training journal, to **Bazar Dor**, a guide to everyday prices across Bangladesh.
 - Creating thoughtful backend workflows, including an **LLM-assisted tuition post filter** that combines structured extraction with clear, testable rules.
+- Developing **UsedCarParts**, an Android marketplace built with Kotlin and Firebase for browsing listings and keeping user accounts and data in sync.
 - Exploring **machine learning** through customer churn prediction and model evaluation, while continuing to grow my skills across web development and databases.
 ## Skills
 
