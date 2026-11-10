@@ -10,12 +10,11 @@
 
 ## About Me
 
-I'm a Computer Science student at BRAC University interested in building useful software and learning how technology can solve real-world problems. I enjoy working across full-stack web development and machine learning.
+I'm a Computer Science student at BRAC University who enjoys turning practical problems into useful, well-crafted software. I build full-stack applications with modern web technologies and enjoy exploring how AI and data-driven approaches can make them more helpful and reliable.
 
-- Exploring **Next.js** and modern full-stack web development.
-- Building and improving full-stack applications with **TypeScript, Next.js, and database-backed APIs**.
-- Experimenting with **machine learning**, including customer churn prediction and model evaluation.
-
+- Building full-stack products, from **FitLog**, a workout planner and training journal, to **Bazar Dor**, a guide to everyday prices across Bangladesh.
+- Creating thoughtful backend workflows, including an **LLM-assisted tuition post filter** that combines structured extraction with clear, testable rules.
+- Exploring **machine learning** through customer churn prediction and model evaluation, while continuing to grow my skills across web development and databases.
 ## Skills
 
 <div align="center">
