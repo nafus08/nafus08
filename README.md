@@ -19,9 +19,10 @@ I'm a Computer Science student at BRAC University who enjoys turning practical p
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,nodejs,html,css,tailwind,mysql,postgres,sqlite,kotlin,gradle,firebase,git&perline=8" alt="Python, Java, TypeScript, React, Next.js, Node.js, HTML, CSS, Tailwind CSS, MySQL, PostgreSQL, SQLite, Kotlin, Gradle, Firebase, and Git">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,nodejs,express,html,css,tailwind,mysql,postgres,sqlite,mongodb,supabase,prisma,kotlin,gradle,firebase,git&perline=8" alt="Python, Java, TypeScript, React, Next.js, Node.js, Express, HTML, CSS, Tailwind CSS, MySQL, PostgreSQL, SQLite, MongoDB, Supabase, Prisma, Kotlin, Gradle, Firebase, and Git">
+  <br>
+  <strong>Also working with:</strong> LLM API integration, webhooks, Drizzle ORM, and Better Auth
 </div>
-
 ## Connect with me
 
 <div align="center">
